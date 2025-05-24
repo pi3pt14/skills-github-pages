@@ -1,4 +1,2 @@
----
-title: Welcome to my blog
----
-
+Hello There
+C'est moi
